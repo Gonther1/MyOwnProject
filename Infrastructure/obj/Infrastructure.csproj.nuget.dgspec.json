@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\APM02-54\\Desktop\\MyOwnProject\\Infrastructure\\Infrastructure.csproj": {}
+    "c:\\Users\\USER\\Desktop\\MyOwnProject\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "c:\\Users\\APM02-54\\Desktop\\MyOwnProject\\Core\\Core.csproj": {
+    "c:\\Users\\USER\\Desktop\\MyOwnProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM02-54\\Desktop\\MyOwnProject\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\USER\\Desktop\\MyOwnProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\APM02-54\\Desktop\\MyOwnProject\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\APM02-54\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM02-54\\Desktop\\MyOwnProject\\Core\\obj\\",
+        "projectPath": "c:\\Users\\USER\\Desktop\\MyOwnProject\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\USER\\Desktop\\MyOwnProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM02-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,21 +53,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\APM02-54\\Desktop\\MyOwnProject\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\USER\\Desktop\\MyOwnProject\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM02-54\\Desktop\\MyOwnProject\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\USER\\Desktop\\MyOwnProject\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\APM02-54\\Desktop\\MyOwnProject\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\APM02-54\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM02-54\\Desktop\\MyOwnProject\\Infrastructure\\obj\\",
+        "projectPath": "c:\\Users\\USER\\Desktop\\MyOwnProject\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\USER\\Desktop\\MyOwnProject\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM02-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\APM02-54\\Desktop\\MyOwnProject\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\APM02-54\\Desktop\\MyOwnProject\\Core\\Core.csproj"
+              "c:\\Users\\USER\\Desktop\\MyOwnProject\\Core\\Core.csproj": {
+                "projectPath": "c:\\Users\\USER\\Desktop\\MyOwnProject\\Core\\Core.csproj"
               }
             }
           }
@@ -120,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
