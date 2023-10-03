@@ -18,8 +18,6 @@ public class PaisConfiguration : IEntityTypeConfiguration<Pais>
 
         builder.Property(p => p.Nombre)
         .IsRequired()
-        .HasMaxLength(50);
-
-        
+        .HasMaxLength(50);        
     }
 }
