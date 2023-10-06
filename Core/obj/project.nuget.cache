@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EbJQlesd8k+TvU8PvHFwhaQ7dQFiIQSSe0H/QZgvXB/p/o9Ge981nFJDEJ5gdShty7ZtTy7lkMuql0K5q2Bg+A==",
+  "dgSpecHash": "7WN5QQo8PJXL5XVjmzbBf0mJKl/kuUJTs3Ne1OqUjSG92AA1sAQf0dpfOVU5qbozrPEH/QQCAHSoY6jp0F1m9w==",
   "success": true,
-  "projectFilePath": "/workspaces/MyOwnProject/Core/Core.csproj",
+  "projectFilePath": "/home/skylab-107/Desktop/MyOwnProject/Core/Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

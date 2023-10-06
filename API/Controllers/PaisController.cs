@@ -32,7 +32,7 @@ public class PaisController : BaseController
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
 
-    public async Task<ActionResult> Get(string id)
+    public async Task<ActionResult> Get(int id)
     {
         var pais = await _context.Paises.FindAsync(id);
         return Ok(pais);
