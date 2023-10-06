@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xtEDTJtAEKt5Y5XYSq9zuXdNmDLYv2iHOhf7oCwv4SzzY4jHWyipoL52j5GLBnTEQJoq0HwPzWQ0N0dcgLmw0Q==",
+  "dgSpecHash": "EbJQlesd8k+TvU8PvHFwhaQ7dQFiIQSSe0H/QZgvXB/p/o9Ge981nFJDEJ5gdShty7ZtTy7lkMuql0K5q2Bg+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\MyOwnProject\\Core\\Core.csproj",
+  "projectFilePath": "/workspaces/MyOwnProject/Core/Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
