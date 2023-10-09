@@ -1479,19 +1479,19 @@
     ]
   },
   "packageFolders": {
-    "/home/skylab-107/.nuget/packages/": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/skylab-107/Desktop/MyOwnProject/API/API.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\MyOwnProject\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "/home/skylab-107/Desktop/MyOwnProject/API/API.csproj",
-      "packagesPath": "/home/skylab-107/.nuget/packages/",
-      "outputPath": "/home/skylab-107/Desktop/MyOwnProject/API/obj/",
+      "projectPath": "C:\\Users\\USER\\Desktop\\MyOwnProject\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\MyOwnProject\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/skylab-107/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -1503,8 +1503,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/skylab-107/Desktop/MyOwnProject/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/home/skylab-107/Desktop/MyOwnProject/Infrastructure/Infrastructure.csproj"
+            "C:\\Users\\USER\\Desktop\\MyOwnProject\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\MyOwnProject\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -1553,7 +1553,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
